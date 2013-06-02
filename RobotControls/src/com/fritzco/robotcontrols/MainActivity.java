@@ -32,6 +32,7 @@ public class MainActivity extends Activity {
 
 	TextView logTextView;
 	TextView statusTextView;
+	/* Caution, layout break */
 
 	String ipAddr;
 	String BTStat = " Disconnected ";
